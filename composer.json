@@ -10,7 +10,7 @@
         "drupal/paragraphs": "^1.2",
         "drupal/rules": "^3.0",
         "drush/drush": "9.*",
-        "drupal/php": "^1.0"
+        "drupal/php": "^1.0-beta2"
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
