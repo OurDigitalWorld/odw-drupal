@@ -6,7 +6,8 @@
     "require": {
         "composer/installers": "^1.0.24",
         "wikimedia/composer-merge-plugin": "~1.4",
-        "drupal/core": "~8.4",
+        "drupal/core": "8.5.1",
+        "webflo/drupal-core-require-dev": "~8.5",
         "drupal/paragraphs": "^1.2",
         "drupal/rules": "^3.0",
         "drush/drush": "9.*",
