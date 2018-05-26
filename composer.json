@@ -12,7 +12,8 @@
         "drupal/rules": "^3.0",
         "drush/drush": "9.*",
         "drupal/php": "^1.0-beta2",
-        "drupal/bootstrap": "^3.11"
+        "drupal/bootstrap": "^3.11",
+        "drupal/flag": "dev-4.x"
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
