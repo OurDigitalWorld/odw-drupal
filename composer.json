@@ -15,7 +15,9 @@
         "drupal/bootstrap": "^3.11",
         "drupal/flag": "dev-4.x",
         "drupal/views_timelinejs": "dev-3.x",
-        "drupal/leaflet": "^1.0@beta"
+        "drupal/leaflet": "^1.0@beta",
+        "drupal/computed_field": "2.x-dev",
+        "drupal/charts": "3.x-dev"
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
